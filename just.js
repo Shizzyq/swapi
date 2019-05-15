@@ -19,4 +19,4 @@ function updateInfo(data){
 }
 
 
-button.addEventListener('click', getInfo);
+document.getElementById('button').addEventListener('click', getInfo);
